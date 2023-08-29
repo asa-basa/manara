@@ -211,23 +211,3 @@ window.wp=window.wp||{},function(s){var t="undefined"==typeof _wpUtilSettings?{}
 "use strict";var WPFormsElementorFrontend=window.WPFormsElementorFrontend||function(o,e,n){var r={init:function(){r.events()},events:function(){e.addEventListener("elementor/popup/show",function(e){e=n("#elementor-popup-modal-"+e.detail.id).find(".wpforms-form");e.length&&r.initFields(e)})},initFields:function(e){wpforms.ready(),"undefined"!=typeof wpformsModernFileUpload&&wpformsModernFileUpload.init(),"undefined"!=typeof wpformsRecaptchaLoad&&("recaptcha"===wpformsElementorVars.captcha_provider&&"v3"===wpformsElementorVars.recaptcha_type?"undefined"!=typeof grecaptcha&&grecaptcha.ready(wpformsRecaptchaLoad):wpformsRecaptchaLoad()),n(o).trigger("wpforms_elementor_form_fields_initialized",[e])}};return r}(document,window,jQuery);WPFormsElementorFrontend.init();
 
 }
-/*
-     FILE ARCHIVED ON 16:19:43 Apr 26, 2023 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:28:21 Aug 24, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 234.797
-  exclusion.robots: 0.144
-  exclusion.robots.policy: 0.133
-  cdx.remote: 0.067
-  esindex: 0.009
-  LoadShardBlock: 196.681 (3)
-  PetaboxLoader3.resolve: 209.196 (3)
-  PetaboxLoader3.datanode: 95.934 (4)
-  load_resource: 130.806
-*/

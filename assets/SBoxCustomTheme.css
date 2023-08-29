@@ -40,7 +40,7 @@
 }
 /* selected range btw start and end dates  */
 .SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__selected_span {
-  background-color: #126833;
+  background-color: #33bee5;
   border: 1px solid #cacccd;
   color: #fff;
 }
@@ -49,7 +49,7 @@
 .SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__selected_end,
 .SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__selected,
 .SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__selected .CalendarDay__blocked_minimum_nights {
-  background-color: #126833;
+  background-color: #33bee5;
   border: 1px solid #cacccd;
   color: #fff;
 }
@@ -88,23 +88,12 @@
   line-height: initial !important;
   height: auto !important;
 }
-/*
-     FILE ARCHIVED ON 02:22:26 Jun 15, 2023 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 14:26:13 Aug 24, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 157.273
-  exclusion.robots: 0.172
-  exclusion.robots.policy: 0.158
-  cdx.remote: 0.08
-  esindex: 0.012
-  LoadShardBlock: 118.451 (3)
-  PetaboxLoader3.datanode: 139.721 (5)
-  load_resource: 467.226 (2)
-  PetaboxLoader3.resolve: 375.535 (2)
-*/
+.DateInput_fang {
+  left: 90px !important;
+}
+#dealsSearchBox .sbox-main {
+  color: #333 !important;
+}
+#dealsSearchBox .checkbox-wrapper {
+  display: none !important;
+}
