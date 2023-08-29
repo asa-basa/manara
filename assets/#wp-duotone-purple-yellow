@@ -19,7 +19,7 @@
 	<meta property="og:site_name" content="מנרה לודג&#039; | Manara Lodge" />
 	<meta property="article:publisher" content="https://www.facebook.com/ManaraLodgeIL" />
 	<meta property="article:modified_time" content="2021-08-10T12:55:15+00:00" />
-	<meta property="og:image" content="https://www.manaralodge.co.il/wp-content/uploads/2021/08/0001.jpg" />
+	<meta property="og:image" content="https://www.manaralodge.co.il/wp-content/uploads/2021/08/0001.webp" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="זמן קריאה מוערך" />
 	<meta name="twitter:data1" content="דקה1" />
@@ -29545,7 +29545,7 @@ Template: astra
 		}
 	</style>
 	<script type="application/ld+json"
-		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html","url":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html","name":"בריכת מנרה - מנרה לודג&#039; | Manara Lodge","isPartOf":{"@id":"https://www.manaralodge.co.il/#website"},"primaryImageOfPage":{"@id":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html#primaryimage"},"image":{"@id":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html#primaryimage"},"thumbnailUrl":"https://www.manaralodge.co.il/wp-content/uploads/2021/08/0001.jpg","datePublished":"2021-08-10T12:25:33+00:00","dateModified":"2021-08-10T12:55:15+00:00","breadcrumb":{"@id":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html#breadcrumb"},"inLanguage":"he-IL","potentialAction":[{"@type":"ReadAction","target":["%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html"]}]},{"@type":"ImageObject","inLanguage":"he-IL","@id":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html#primaryimage","url":"https://www.manaralodge.co.il/wp-content/uploads/2021/08/0001.jpg","contentUrl":"https://www.manaralodge.co.il/wp-content/uploads/2021/08/0001.jpg","width":1599,"height":492},{"@type":"BreadcrumbList","@id":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.manaralodge.co.il/"},{"@type":"ListItem","position":2,"name":"בריכת מנרה"}]},{"@type":"WebSite","@id":"https://www.manaralodge.co.il/#website","url":"https://www.manaralodge.co.il/","name":"Manara Lodge","description":"מנרה לודג&#039; - לינה, טיפוס ואקסטרים עם אחיזה בטבע","publisher":{"@id":"https://www.manaralodge.co.il/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.manaralodge.co.il/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"he-IL"},{"@type":"Organization","@id":"https://www.manaralodge.co.il/#organization","name":"Manara Lodge","url":"https://www.manaralodge.co.il/","logo":{"@type":"ImageObject","inLanguage":"he-IL","@id":"https://www.manaralodge.co.il/#/schema/logo/image/","url":"","contentUrl":"","caption":"Manara Lodge"},"image":{"@id":"https://www.manaralodge.co.il/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/ManaraLodgeIL","https://www.instagram.com/manara.lodge/"]}]}</script>
+		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html","url":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html","name":"בריכת מנרה - מנרה לודג&#039; | Manara Lodge","isPartOf":{"@id":"https://www.manaralodge.co.il/#website"},"primaryImageOfPage":{"@id":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html#primaryimage"},"image":{"@id":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html#primaryimage"},"thumbnailUrl":"https://www.manaralodge.co.il/wp-content/uploads/2021/08/0001.webp","datePublished":"2021-08-10T12:25:33+00:00","dateModified":"2021-08-10T12:55:15+00:00","breadcrumb":{"@id":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html#breadcrumb"},"inLanguage":"he-IL","potentialAction":[{"@type":"ReadAction","target":["%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html"]}]},{"@type":"ImageObject","inLanguage":"he-IL","@id":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html#primaryimage","url":"https://www.manaralodge.co.il/wp-content/uploads/2021/08/0001.webp","contentUrl":"https://www.manaralodge.co.il/wp-content/uploads/2021/08/0001.webp","width":1599,"height":492},{"@type":"BreadcrumbList","@id":"%d7%91%d7%a8%d7%99%d7%9b%d7%aa_%d7%9e%d7%a0%d7%a8%d7%94.html#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.manaralodge.co.il/"},{"@type":"ListItem","position":2,"name":"בריכת מנרה"}]},{"@type":"WebSite","@id":"https://www.manaralodge.co.il/#website","url":"https://www.manaralodge.co.il/","name":"Manara Lodge","description":"מנרה לודג&#039; - לינה, טיפוס ואקסטרים עם אחיזה בטבע","publisher":{"@id":"https://www.manaralodge.co.il/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.manaralodge.co.il/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"he-IL"},{"@type":"Organization","@id":"https://www.manaralodge.co.il/#organization","name":"Manara Lodge","url":"https://www.manaralodge.co.il/","logo":{"@type":"ImageObject","inLanguage":"he-IL","@id":"https://www.manaralodge.co.il/#/schema/logo/image/","url":"","contentUrl":"","caption":"Manara Lodge"},"image":{"@id":"https://www.manaralodge.co.il/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/ManaraLodgeIL","https://www.instagram.com/manara.lodge/"]}]}</script>
 	<link href='https://fonts.gstatic.com' crossorigin='anonymous' rel='preconnect' />
 	<link href='https://ajax.googleapis.com' rel='preconnect' />
 	<link href='https://fonts.googleapis.com' rel='preconnect' />
@@ -29771,10 +29771,10 @@ Template: astra
 		href="https://www.manaralodge.co.il/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.manaralodge.co.il%2F%25d7%2591%25d7%25a8%25d7%2599%25d7%259b%25d7%25aa_%25d7%259e%25d7%25a0%25d7%25a8%25d7%2594%2F&#038;format=xml" />
 	<meta name="generator"
 		content="Elementor 3.13.4; features: a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
-	<link rel="icon" href="assets/cropped-newnewlogo-1-32x32.jpg" sizes="32x32" />
-	<link rel="icon" href="assets/cropped-newnewlogo-1-192x192.jpg" sizes="192x192" />
-	<link rel="apple-touch-icon" href="assets/cropped-newnewlogo-1-180x180.jpg" />
-	<meta name="msapplication-TileImage" content="assets/cropped-newnewlogo-1-270x270.jpg" />
+	<link rel="icon" href="assets/cropped-newnewlogo-1-32x32.webp" sizes="32x32" />
+	<link rel="icon" href="assets/cropped-newnewlogo-1-192x192.webp" sizes="192x192" />
+	<link rel="apple-touch-icon" href="assets/cropped-newnewlogo-1-180x180.webp" />
+	<meta name="msapplication-TileImage" content="assets/cropped-newnewlogo-1-270x270.webp" />
 	<script data-cfasync="false"
 		id="ao_optimized_gfonts_webfontloader">(function () { var wf = document.createElement('script'); wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js'; wf.type = 'text/javascript'; wf.async = 'true'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wf, s); })();</script>
 </head>
@@ -30009,7 +30009,7 @@ Template: astra
 																		<div class="elementor-widget-container">
 																			<div class="elementor-image"> <img
 																					decoding="async"
-																					src="https://www.manaralodge.co.il/wp-content/uploads/2021/08/0001.jpg"
+																					src="https://www.manaralodge.co.il/wp-content/uploads/2021/08/0001.webp"
 																					title="בריכת מנרה" alt="בריכת מנרה"
 																					loading="lazy" /></div>
 																		</div>
