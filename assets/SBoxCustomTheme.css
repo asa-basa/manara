@@ -1,0 +1,110 @@
+﻿/* mixin for a button generating */
+.sbox-main,
+.sbox__toolbox,
+.PaxPart_single-line-pax---sbox,
+#sbox .SearchBoxController_loader---sbox,
+.search-again-btn {
+  background-color: #3D3D3D !important;
+  color: #fff;
+}
+.Loading_loader---sbox {
+  background-color: #fff !important;
+}
+.DateRange_date-picker---sbox .DateRangePicker .DateRangePickerInput .DateInput .DateInput_input__focused,
+.sbox__submit {
+  transition: all 0.2s ease;
+  transition: all 0.5s ease;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: #fff !important;
+  color: #3D3D3D !important;
+  border-radius: 0;
+}
+.DateRange_date-picker---sbox .DateRangePicker .DateRangePickerInput .DateInput .DateInput_input__focused:hover,
+.sbox__submit:hover {
+  background-color: #e6e6e6 !important;
+}
+.sbox__submit {
+  font-size: 1.4em !important;
+  line-height: 1em !important;
+}
+/* on range checkout dates - on hover  */
+.SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__hovered,
+.SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__hovered_span,
+.SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__after_hovered_start,
+.SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__selected_span .CalendarDay__hovered_span {
+  background-color: #3D3D3D;
+  border: 1px solid #D0D5D9;
+  color: #fff;
+}
+/* selected range btw start and end dates  */
+.SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__selected_span {
+  background-color: #126833;
+  border: 1px solid #cacccd;
+  color: #fff;
+}
+/* selected start and end dates  */
+.SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__selected_start,
+.SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__selected_end,
+.SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__selected,
+.SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__selected .CalendarDay__blocked_minimum_nights {
+  background-color: #126833;
+  border: 1px solid #cacccd;
+  color: #fff;
+}
+/* min los checkout unavailable dates - on hover  */
+.SearchBox_search-box---sbox .DateRange_date-picker---sbox .DateRangePicker .DateRangePicker_picker .CalendarDay__blocked_minimum_nights {
+  background-color: #666666;
+  border: 1px solid #cacccd;
+  color: #fff;
+}
+.PaxButton_pax-button---sbox.PaxButton_plus---sbox.PaxButton_with-text---sbox {
+  text-decoration: none;
+}
+/* pax rows no absolute positioned - sagiv */
+/*.PaxPart_pax-part-holder---sbox .PaxPart_rooms---sbox {
+    position: relative;
+}
+
+.PaxPart_single-line-pax---sbox:first-of-type,
+.PaxPart_single-line-pax---sbox.PaxPart_rtl---sbox {
+    margin-bottom: 0;
+}*/
+/* EOF -- pax rows no absolute positioned - sagiv */
+/* Dina 4/10/2018 prevent the dropdown list stepping over the room data object */
+#sbox {
+  position: relative;
+  z-index: 100;
+  overflow: visible !important;
+}
+/* End dropdown list */
+@media only screen and (min-width: 531px) {
+  .PaxPart_single-line-pax---sbox .PaxPart_room-title-wrapper---sbox .PaxPart_room-number-title---sbox {
+    margin: 0 !important;
+  }
+}
+.TitleCalendarPart_title-holder---sbox.TitleCalendarPart_title-holder---sbox {
+  line-height: initial !important;
+  height: auto !important;
+}
+/*
+     FILE ARCHIVED ON 02:22:26 Jun 15, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:26:13 Aug 24, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 157.273
+  exclusion.robots: 0.172
+  exclusion.robots.policy: 0.158
+  cdx.remote: 0.08
+  esindex: 0.012
+  LoadShardBlock: 118.451 (3)
+  PetaboxLoader3.datanode: 139.721 (5)
+  load_resource: 467.226 (2)
+  PetaboxLoader3.resolve: 375.535 (2)
+*/
