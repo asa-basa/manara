@@ -18,24 +18,39 @@
   .elementor-repeater-item-7d6d76a
   .swiper-slide-bg {
   background-color: #833ca3;
-  background-image: url(WhatsApp-Image-2020-11-27-at-14.06.31.webp);
   background-size: cover;
+}
+.elementor-2278
+  .elementor-element.elementor-element-dbc2d59
+  .elementor-repeater-item-7d6d76a
+  .swiper-slide-bg.visible {
+  background-image: url(WhatsApp-Image-2020-11-27-at-14.06.31.webp);
 }
 .elementor-2278
   .elementor-element.elementor-element-dbc2d59
   .elementor-repeater-item-e0c0468
   .swiper-slide-bg {
   background-color: #4054b2;
-  background-image: url(WhatsApp-Image-2020-11-27-at-14.06.31-3.webp);
   background-size: cover;
+}
+.elementor-2278
+  .elementor-element.elementor-element-dbc2d59
+  .elementor-repeater-item-e0c0468
+  .swiper-slide-bg.visible {
+  background-image: url(WhatsApp-Image-2020-11-27-at-14.06.31-3.webp);
 }
 .elementor-2278
   .elementor-element.elementor-element-dbc2d59
   .elementor-repeater-item-e2bbeef
   .swiper-slide-bg {
   background-color: #1abc9c;
-  background-image: url(WhatsApp-Image-2020-11-27-at-14.06.29-1.webp);
   background-size: cover;
+}
+.elementor-2278
+  .elementor-element.elementor-element-dbc2d59
+  .elementor-repeater-item-e2bbeef
+  .swiper-slide-bg.visible {
+  background-image: url(WhatsApp-Image-2020-11-27-at-14.06.29-1.webp);
 }
 .elementor-2278 .elementor-element.elementor-element-dbc2d59 .swiper-slide {
   height: 610px;
@@ -56,4 +71,3 @@
     font-size: 23px;
   }
 }
-
