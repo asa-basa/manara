@@ -9,7 +9,7 @@ set "webp_skipped=0"
 set "avif_skipped=0"
 
 echo Converting JPEG to WebP...
-for %%i in (*.jpeg) do (
+for %%i in (*.png) do (
     set "webp_output=%%~ni.webp"
     if exist !webp_output! (
         echo Skipped: !webp_output! already exists.
